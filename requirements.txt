@@ -1,0 +1,8 @@
+jupyterlab>=4.0
+scikit-learn>=1.3
+numpy>=1.26
+pandas>=2.2
+rank-bm25>=0.2
+nltk>=3.8
+# Optional for semantic embeddings (the notebook works without it):
+sentence-transformers>=3.0 ; sys_platform != 'emscripten'
