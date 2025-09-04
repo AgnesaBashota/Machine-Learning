@@ -3,7 +3,7 @@
 Minimal kodnotebook med **auto-install** och **autosave** av resultat.
 
 ## Struktur
-- `kk2_kreditbedrageri_agnesa_autosave.ipynb` – kör allt.
+- `kk2_kreditbedrageri_.ipynb` – kör allt.
 - `data/` – lägg `creditcard.csv` här (annars används syntetisk data).
 - `images/` – sparar figurer (ROC, Confusion Matrix, klassfördelning).
 - `logs/` – sparar `metrics.csv`, `classification_report_*.txt`, `meta.json`, `run_info.json`.
